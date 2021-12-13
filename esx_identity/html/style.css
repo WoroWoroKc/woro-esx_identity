@@ -1,0 +1,259 @@
+body {
+	font-family: sans-serif;
+	overflow: hidden;
+
+	display: none;
+
+	-webkit-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	background-color: #151618;
+}
+#rules {
+	width: 93%;
+	height: 95%;
+	position: absolute;
+	margin-left: auto;
+	margin-right: auto;
+	left: 50;
+	right: 50;
+	background-color: #1E1F22;
+	border-top: 12px solid #17F77F;
+	overflow-y: auto;
+	overflow-x: hidden;
+	top: 5.5%;
+	border-radius: 5px;
+}
+#rules::-webkit-scrollbar {
+	width: 5;
+  }
+  
+  /* Track */
+#rules::-webkit-scrollbar-track {
+	box-shadow: inset 0 0 5px rgba(0,0,0,0.3);
+	border-radius: 50px;
+  }
+  
+  /* Handle */
+  #rules::-webkit-scrollbar-thumb {
+	background: #393B41;
+	border-radius: 5px;
+  }
+h1 {
+	font-weight: 100;
+	font-family: 'Alata', sans-serif;
+	text-align: center;
+	color: white;
+}
+h3 {
+	font-weight: 100;
+	font-family: 'Alata', sans-serif;
+}
+textarea {
+	
+	cursor: pointer;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+	width: 75%;
+	height: 60%;
+	resize: none;
+	color: #DBDCDF;
+	background-color: #151618;
+	border-radius: 5px;
+	border: 3px solid #151618;
+}
+textarea::-webkit-scrollbar {
+    width: 1em;
+}
+textarea::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+}
+textarea::-webkit-scrollbar-thumb {
+	border-radius: 5px;
+  background-color: #393B41;
+}
+.box {
+	width: 65%;
+	height: 80%;
+	position: absolute;
+	margin-left: auto;
+	margin-right: auto;
+	left: 50;
+	right: 50;
+	background-color: #1E1F22;
+	overflow-y: auto;
+	overflow-x: hidden;
+	top:13%;
+	border-radius: 5px;
+}
+.box::-webkit-scrollbar {
+	width: 5;
+  }
+  
+  /* Track */
+.box::-webkit-scrollbar-track {
+	box-shadow: inset 0 0 5px rgba(0,0,0,0.3);
+	border-radius: 50px;
+  }
+  
+  /* Handle */
+  .box::-webkit-scrollbar-thumb {
+	background: #393B41;
+	border-radius: 5px;
+  }
+.title {
+	font-size: 26px;
+	text-align: center;
+	font-weight: 100;
+	font-family: 'Alata', sans-serif;
+	color: #fff;
+}
+.box1 {
+	width: 50%;
+	height: 90%;
+	background-color: #151618;
+	position: absolute;
+	margin-left: auto;
+	margin-right: auto;
+	left: 50;
+	right: 50;
+	top: 5%;
+	border-radius: 15px;
+}
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 77px;
+	height: 77px;
+}
+.title1 {
+	font-size: 25px;
+	text-align: center;
+	font-weight: 100;
+	font-family: 'Alata', sans-serif;
+	color: #fff;
+}
+h2 {
+	color: white;
+	align-items: center;
+	text-align: center;
+}
+h3 {
+	color: white;
+	align-items: center;
+	text-align: center;
+}
+.purple {
+	color: #17f77f;
+}
+.box-heading {
+	background: black;
+	border-bottom: 9px solid #17F77F;
+	text-align: center;
+	margin-top: 0px;
+}
+input[type=text] {
+	width: 75%;
+	height: 6%;
+	padding: 8px;
+	text-align: left;
+	margin-bottom: 25px;
+	margin-top: 5px;
+	border: 1px solid #28292D;
+	border-radius: 5px;
+	color: #fff;
+	background-color: #28292D;
+}
+input[type=date] {
+	width: 75%;
+	height: 6%;
+	padding: 8px;
+	text-align: left;
+	margin-bottom: 25px;
+	margin-top: 5px;
+	border: 1px solid #28292D;
+	border-radius: 5px;
+	color: #fff;
+	background-color: #28292D;
+}
+.input-name {
+	color: #fff;
+	font-family: 'Alata', sans-serif;
+	font-weight: 100;
+	margin-left: 75px;
+}
+.input-name-chuj {
+	color: #fff;
+	font-family: 'Alata', sans-serif;
+	font-weight: 100;
+	margin-left: -410px;
+}
+.input-name-chuij {
+	color: #fff;
+	font-family: 'Alata', sans-serif;
+	font-weight: 100;
+	margin-left: -335px;
+}
+.genderstyle {
+	width: 37.3%;
+	height: 42px;
+	background-color: #28292D;
+	border-radius: 5px;
+	color: #fff;
+	margin-left: 1px;
+	margin-right: 1px;
+
+}
+button {
+	font-weight: 100;
+	font-family: 'Alata', sans-serif;
+	width: 30%;
+	height: 6%;
+	display: block;
+	margin-top: 40px;
+	margin-bottom: 18px;
+	background-color: #17F77F;
+	border: 1px solid #17F77F;
+	border-radius: 5px;
+	color: white;
+	font-size:15px;
+}
+button:hover {
+	border: 2px solid rgb(128, 130, 129);
+}
+input[type="radio"] {
+	position: absolute;
+	opacity: 0;
+
+}
+label {
+	font-family: 'Alata', sans-serif;
+	font-weight: 100;
+}
+input[type="radio"] + label {
+	position: relative;
+	display: inline-block;
+
+
+	line-height: 36px;
+	cursor: pointer;
+}
+input[type="radio"] + label:before, input[type="radio"] + label:after {
+	content: "";
+	position: absolute;
+	top: 6px;
+	left: 1px;
+	width: 24px;
+	height: 24px;
+}
+input[type="radio"] + label::before {
+	border-radius: 5px;
+}
+input[type="radio"]:checked + label:before {
+	top: 0;
+	width: 98%;
+	height: 98%;
+	border: 2px solid #17F77F;
+}
