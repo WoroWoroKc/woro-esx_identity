@@ -7,7 +7,8 @@ Fivem esx_identity by WoroWoro#3229
 
 # Discord 
 
-* https://discord.gg/gxXTBXSFBN
+* AkiraRP https://discord.gg/UrWKhuwwb9
+* RedLeaks https://discord.gg/gxXTBXSFBN
 
 # Install:
 
