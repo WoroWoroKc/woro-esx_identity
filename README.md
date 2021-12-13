@@ -5,6 +5,10 @@ Fivem esx_identity by WoroWoro#3229
 
 * WoroWoro: https://woro.website | https://www.youtube.com/channel/UCJAeta_d-ZUDvlSo2PkRFRQ/
 
+# Discord 
+
+* https://discord.gg/gxXTBXSFBN
+
 # Install:
 
 * Go to resources
