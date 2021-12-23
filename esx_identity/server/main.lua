@@ -1,6 +1,6 @@
 ESX= nil
 
-TriggerEvent('esx:AkiragetSharedObject', function(obj) ESX= obj end)
+TriggerEvent('esx:getSharedObject', function(obj) ESX= obj end)
 
 function getIdentity(source, callback)
 	local identifier = ESX.GetPlayerFromId(source).identifier
