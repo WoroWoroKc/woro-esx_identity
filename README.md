@@ -1,14 +1,14 @@
 # esx_identity
 Fivem esx_identity by WoroWoro#3229
+Jest to przerobione esx_property
 
 # Authors
 
-* WoroWoro: https://woro.website | https://www.youtube.com/channel/UCJAeta_d-ZUDvlSo2PkRFRQ/
+* WoroWoro: https://woro.website | 
 
 # Discord 
 
-* AkiraRP https://discord.gg/UrWKhuwwb9
-* RedLeaks https://discord.gg/gxXTBXSFBN
+* AkiraRP https://dc.akirarp.pl
 
 # Install:
 
@@ -16,8 +16,6 @@ Fivem esx_identity by WoroWoro#3229
 * Upload files
 * Add to server.cfg
 ```
-  ensure esx_identity
+  ensure woro-schowek
 ```
 
-![img1](https://akirarp.pl/img/cfel1.png)
-![img2](https://akirarp.pl/img/cfel2.png)
