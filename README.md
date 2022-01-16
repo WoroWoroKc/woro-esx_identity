@@ -5,7 +5,7 @@ Jest to przerobione esx_property!!!!
 
 # Authors
 
-* WoroWoro: https://woro.website | 
+* WoroWoro: https://woro.website | https://www.youtube.com/channel/UCJAeta_d-ZUDvlSo2PkRFRQ
 
 # Discord 
 
